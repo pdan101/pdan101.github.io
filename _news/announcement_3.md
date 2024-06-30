@@ -7,4 +7,4 @@ related_posts: false
 order: 5
 ---
 
-<strong>Software Engineer</strong> & CS Path Planning Lead @ Cornell Cup Robotics in Ithaca, NY.
+Software Engineer & CS Path Planning Lead @ Cornell Cup Robotics in Ithaca, NY.

@@ -7,4 +7,4 @@ related_posts: false
 order: 6
 ---
 
-<strong>Software Engineering</strong> Intern @ Northwestern Mutual in Milwaukee, WI.
+Software Engineering Intern @ Northwestern Mutual in Milwaukee, WI.

@@ -7,4 +7,4 @@ related_posts: false
 order: 4
 ---
 
-<strong>Software Engineering</strong> Intern (Query Execution) @ MongoDB in New York, NY.
+Software Engineering Intern (Query Execution) @ MongoDB in New York, NY.
