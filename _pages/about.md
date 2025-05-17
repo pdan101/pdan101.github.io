@@ -24,3 +24,5 @@ I work on training robotic agents from human demonstrations in everyday environm
 Additionally, I am an incoming [CVML Research Intern @ Apple](https://www.apple.com/apple-vision-pro/), and have prior internship experience as a [Software Engineering Intern @ MongoDB](https://www.mongodb.com/).
 
 In my free time, I enjoy Chinese Yo-Yo'ing and dancing.
+
+Link to [CV](https://pdan101.github.io/assets/pdf/PrithwishCV-2025.pdf).
