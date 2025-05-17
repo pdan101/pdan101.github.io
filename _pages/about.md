@@ -6,7 +6,7 @@ subtitle: pd337@cornell.edu
 
 profile:
   align: right
-  image: card-pfp.jpg
+  image: new-pfp.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>M.S. Student</p>
