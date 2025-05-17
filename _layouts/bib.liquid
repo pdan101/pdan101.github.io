@@ -38,6 +38,7 @@
             class="preview z-depth-1 rounded"
             zoomable=true
             alt=entry.preview
+            width="200%"
           %}
         {% endif %}
       {% endif %}
@@ -45,7 +46,8 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}"  style="padding-left: 130px;"
+>
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->

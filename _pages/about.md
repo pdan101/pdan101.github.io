@@ -17,12 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 1st year Computer Science M.S. student at Cornell University, advised by [Professor Sanjiban Choudhury](https://sanjibanc.github.io/). 
+I am entering the final year of my Computer Science M.S. at Cornell University, advised by [Professor Sanjiban Choudhury](https://sanjibanc.github.io/) and [Professor Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/). 
 
-My research lies in the intersection of Machine Learning and Robotics, with the goal of employing robots with skills necessary to interact safely and seamlessly with humans when completing everyday tasks. I recently have been tackling the problem of learning optimal robot behaviors from human demonstration videos using vision-based techniques.
+I work on training robotic agents from human demonstrations in everyday environments. My research interests span learning from human videos, imitation learning (IL), reinforcement learning (RL), and sim-to-real as they serve as the scalable pathways towards learning general purpose robot skills.
 
-I have also honed my Software Engineering skills through industry roles, and aim to leverage all of my experiences to apply Machine Learning to real-world problems in a Research & Development setting.
+Additionally, I am an incoming [CVML Research Intern @ Apple](https://www.apple.com/apple-vision-pro/), and have prior internship experience as a [Software Engineering Intern @ MongoDB](https://www.mongodb.com/). 
 
-I completed my B.S. in Computer Science (Summa Cum Laude, with Departmental Honors) at Cornell in 2024, where I was a part of academic (Cornell Cup Robotics) and recreational (Pro-Yos, Assorted Aces, E.Motion) clubs beyond my research efforts. In my free time, I enjoy Chinese Yo-Yo'ing and dancing.
-
-Notable Awards: [Merrill Presidential Scholar](https://news.cornell.edu/stories/2024/05/merrill-scholars-honor-mentors-who-inspired-them) (2024), [CRA Outstanding Undergraduate Researcher - Honorable Mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) (2024)
+In my free time, I enjoy Chinese Yo-Yo'ing and dancing.
