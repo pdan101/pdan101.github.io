@@ -28,7 +28,7 @@ ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
-
+RUN bundle update rexml
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
