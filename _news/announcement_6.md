@@ -7,4 +7,4 @@ related_posts: false
 order: 2
 ---
 
-I received the [Merrill Presidential Scholar](https://news.cornell.edu/stories/2024/05/merrill-scholars-honor-mentors-who-inspired-them) award!
+I received the [Merrill Presidential Scholar](https://news.cornell.edu/stories/2024/05/merrill-scholars-honor-mentors-who-inspired-them) award which honors Top 1% of all Cornell undergraduates in academic achievement and leadership!
