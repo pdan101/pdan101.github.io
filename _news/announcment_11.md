@@ -7,4 +7,4 @@ related_posts: false
 order: -3
 ---
 
-[X-Sim](https://portal-cornell.github.io/X-Sim/) was accepted to [CoRL 2025](https://www.corl.org/home) for an Oral Presentation!
+[X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](https://portal-cornell.github.io/X-Sim/) was accepted to [CoRL 2025](https://www.corl.org/home) for an Oral Presentation, and received Best Paper Finalist at [EgoAct @ RSS2025](https://egoact.github.io/rss2025/)! We learn robot actions from action-less human videos using an object-centric reward in simulation, generating synthetic data for real policies.
